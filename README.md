@@ -1,4 +1,10 @@
-# uIDashboard
+# uIDashboard (Angular version)
+These points help rem the different parts.
+1. Styles for Angular in metronic: src/assets/sass/_congig.scss
+2.  Anglar material styles: src/assets/sass/global/integration/framworks/angular-material.scss
+3. Romove unwanted pages: Navigate to views/pages/page.module.ts (all pages declaration)
+menu location: core/_config/menu.config.ts
+# uIDashboard (PHP version)
 A simple mockup of what my choice dashboard would be
 
 
